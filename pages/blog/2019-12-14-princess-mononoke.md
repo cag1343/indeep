@@ -1,7 +1,7 @@
 ---
 title: "Music and math"
 date: 2020-03-09
-image: /images/someday.png
+image: /images/mage.png
 tags:
   - ML
   - music
