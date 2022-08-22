@@ -5,7 +5,7 @@ menu:
   main:
     weight: 999
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+
 
 ## How to use?
 
