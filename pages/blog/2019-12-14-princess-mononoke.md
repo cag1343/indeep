@@ -1,7 +1,7 @@
 ---
 title: "Music and math"
 date: 2020-03-09
-image: /images/princess-mononoke.jpg
+image: /images/someday.png
 tags:
   - ML
   - music
