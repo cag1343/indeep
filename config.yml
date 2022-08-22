@@ -1,9 +1,9 @@
-title: The Butler
-baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
+title: -- inDeep
+baseline: -
+description: Random science, thoughts and coding
 baseurl: /
 canonicalurl: true
-keywords: [Cecil, Static Site Generator, SSG]
+keywords:
 author: Arnaud Ligny
 date:
   format: j F Y
